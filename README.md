@@ -4,7 +4,7 @@
 
 ### I am Shristi Sinha, a ML and development (Java & Flutter) enthusiast.
 
-* 🔭 I’m currently focused on **Computer Vision (CV)** , **OCR** and **Machine Learning (ML)**
+* I’m currently focused on **Computer Vision (CV)** , **OCR** and **Machine Learning (ML)**
 * 📧 How to reach me: **shristisinha1611@gmail.com**
 
 ### Connect with me:
