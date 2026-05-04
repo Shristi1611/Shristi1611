@@ -18,12 +18,3 @@
 <br> <!-- This adds space between the icon and the card -->
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Shristi-Sinha?theme=nord)](https://leetcode.com/u/Shristi-Sinha/)
-
-### Tools and Technologies:
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-</p>
-
-</div>
