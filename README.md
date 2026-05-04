@@ -1,11 +1,12 @@
 <div align="center">
 
-# Heyy👋 What's up?
+# 💻 Shristi Sinha
+### Second Year B.Tech CSE Student | ML & Computer Vision Enthusiast
 
-## I am Shristi Sinha, a ML and development (Java & Flutter) enthusiast.
+I’m currently focused on **Computer Vision (CV)**, **OCR**, and **Machine Learning (ML)**
+📧 Reach me at: **shristisinha1611@gmail.com**
 
-I’m currently focused on **Computer Vision (CV)**, **OCR** and **Machine Learning (ML)**
-📧 How to reach me: **shristisinha1611@gmail.com**
+---
 
 ### Connect with me:
 
