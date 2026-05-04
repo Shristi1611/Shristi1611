@@ -1,6 +1,5 @@
 <div align="center">
 
-# 💻 Shristi Sinha
 ### Second Year B.Tech CSE Student | ML & Computer Vision Enthusiast
 
 I’m currently focused on **Computer Vision (CV)**, **OCR**, and **Machine Learning (ML)**
