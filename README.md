@@ -9,13 +9,14 @@ I’m currently focused on **Computer Vision (CV)** , **OCR** and **Machine Lear
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/shristi-sinha-4a3a37345">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shristisinha" height="20" width="30" />
-</a>
-<br>
-<!-- LeetCode Icon -->
+### Connect with me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shristi-sinha-4a3a37345">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
+  </a>
   <a href="https://leetcode.com/u/Shristi-Sinha/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="20" width="30" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="25" />
   </a>
 </p>
 
