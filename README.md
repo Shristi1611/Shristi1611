@@ -1,6 +1,6 @@
 <div align="center">
 
-### Second Year B.Tech CSE Student | ML & Computer Vision Enthusiast
+### Third Year B.Tech CSE Student | ML & Computer Vision Enthusiast
 
 I’m currently focused on **Computer Vision (CV)**, **OCR**, and **Machine Learning (ML)**
 📧 Reach me at: **shristisinha1611@gmail.com**
